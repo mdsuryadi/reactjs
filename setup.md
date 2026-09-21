@@ -22,3 +22,7 @@ npm install
 >Install Package
 ```
 npm install react-router-dom #install package
+
+
+>Run Server
+``` npm run dev -- --host 0.0.0.0
