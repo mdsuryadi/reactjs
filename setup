@@ -1,9 +1,9 @@
-## Install
+##Install
 
 >Download
 ``` https://nodejs.org/en/download ```
 
-?Install 
+>Install 
 ```
 npm create vite@latest my-react-app -- --template react-ts
 ```
