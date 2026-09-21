@@ -7,7 +7,16 @@ https://nodejs.org/en/download
 
 >Install 
 ```
-npm create vite@latest my-react-app -- --template react-ts
+#Cara 1 
+npm create vite@latest APPNAME
+Choose : Reactjs
+Choos : Typescript
+cd APPNAME
+npm install
+
+#Cara 2
+npm create vite@latest APPNAME -- --template react-ts 
+npx create-react-app APPNAME --template typescript
 ```
 
 npm install react-router-dom #install package
